@@ -46,7 +46,7 @@ Talks
   {% endfor %}</ul>
   
 
-Honors and awards
+# Honors and awards
 
 =====
 * Graduate Student Association Travel Award, Louisiana State University (2020)
