@@ -47,8 +47,6 @@ Talks
   
 
 # Honors and awards
-
-=====
 * Graduate Student Association Travel Award, Louisiana State University (2020)
 * 1st Prize, Graduate Poster Presentation Award on the 27th International Conference on Current Trends in Com- putational Chemistry Conference (2019)
 * Outstanding Undergraduate Graduation Thesis, Lanzhou University (2015)
