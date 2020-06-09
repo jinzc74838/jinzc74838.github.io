@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry, Lanzhou University, 2011-2015
+* Ph.D in Chemistry, Louisiana State University, 2015-2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-2018: Teaching Assistant
+  * Louisiana State University
+  * Duties included: Teaching undergraduate students at general chemistry lab
+  * Supervisor: Dr.Linda Allen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2020: Research Assistant
+  * Louisiana State University
+  * Duties included: Using computational tools to modeling block co-poplymer electrolyte, colaborate with Dr.Arges group at deparment of Chemical Engineering, LSU
+  * Supervisor: Dr.Revati Kumar
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python , C++, C , Shell Script
+* Platform: Linux, Mac
+* Software: LAMMPS, Gaussian, NWChem, VMD, Matplotlib
+* Langusges: English - Fluent, Mandarin - Native speaker
 
 Publications
 ======
@@ -48,12 +45,14 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Honors and awards
+
+=====
+* Graduate Student Association Travel Award, Louisiana State University (2020)
+* 1st Prize, Graduate Poster Presentation Award on the 27th International Conference on Current Trends in Com- putational Chemistry Conference (2019)
+* Outstanding Undergraduate Graduation Thesis, Lanzhou University (2015)
+* 2nd Prize, Undergraduate Poster Presentation Award on National Undergraduate Training Programs (2015)
+* Accessit at Student’s Platform for Innovation and Entrepreneurship Training Program (2014)
+* 2nd Prize, Undergraduate Chemistry Experimental Skills Competition, Lanzhou University (2014)
+* Scholarship for Excellent Undergraduate Students, Lanzhou University (2012)
