@@ -18,6 +18,6 @@ He plans to move back to China in the coming future.
 
 His favorite sayings "The longest day has an end"; "No cares and no sorrow. A fig for your morrow!"; "The past was a lie, that memory has no return, that every spring gone by could never be recovered, and that the wildest and most tenacious love was an ephemeral truth in the end"
 
-![Screen Shot 2020-06-09 at 9.26.51 PM.png](https://i.loli.net/2020/06/10/eWty46AkZbIi5Ef.png)
+He wants to be a guy who THINK POSITIVE, NETWORK WELL, EXERCISE DAILY, EAT HEALTHY, WORK HARD, STAY STRONG, BUILD FAITH, WORRY LESS, READ MORE, BE HAPPY, VOLUNTEER FREE, RELAX OFTEN, LOVE ALWAYS, LIVE FOREVER!
 
 
