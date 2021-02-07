@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* ***B.S.*** in Chemistry (honors college), Lanzhou University (Gansu, China), 2011/09-2015/06
-* Summer School, St. John's College, University of Manitoba (Manitoba, Canada), 2012/07-2012/08 
-* Exchange Student, Biochemistry, Texas Tech University (Texas, USA), 2013/12-2014/12
-* ***MS.C.*** in Physical Chemistry, Florida State University (Tallahassee, USA), 2015/09-2019/08
-* ***Ph.D.*** in Materials Chemistry, Florida State University (Tallahassee, USA), 2015/09-2019/08
+* ***B.S.*** in Chemistry (honors college), Lanzhou University (Gansu, China), **2011/09-2015/06
+* Summer School, St. John's College, University of Manitoba (Manitoba, Canada), **2012/07-2012/08 
+* Exchange Student, Biochemistry, Texas Tech University (Texas, USA), **2013/12-2014/12
+* ***MS.C.*** in Physical Chemistry, Florida State University (Tallahassee, USA), **2015/09-2019/08
+* ***Ph.D.*** in Materials Chemistry, Florida State University (Tallahassee, USA), **2015/09-2020/08
 
 Work experience
 ======
@@ -60,7 +60,7 @@ Talks
   
 
 # Honors and awards
-* 2020               Philip Schlenoff Excellent Graduate Student Award
+* 2020               &nbsp Philip Schlenoff Excellent Graduate Student Award
 * 2020               SPIE Ocean Insight Young Investigator Award (**First Prize**)
 * 2018               Florida State University Travel Award
 * 2015               Lanzhou University Undergraduate Graduation Star
