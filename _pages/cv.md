@@ -11,26 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemistry, Lanzhou University, 2011-2015
-* Ph.D in Chemistry, Louisiana State University, 2015-2020
+* ***B.S.*** in Chemistry (honors college), Lanzhou University (Gansu, China), 2011/09-2015/06
+* Summer School, St. John's College, University of Manitoba (Manitoba, Canada), 2012/07-2012/08 
+* Exchange Student, Biochemistry, Texas Tech University (Texas, USA), 2013/12-2014/12
+* ***MS.c.*** in Physical Chemistry, Florida State University (Tallahassee, USA), 2015/09-2019/08
+* ***Ph.D.*** in Materials Chemistry, Florida State University (Tallahassee, USA), 2015/09-2019/08
 
 Work experience
 ======
-* 2015-2018: Teaching Assistant
-  * Louisiana State University
-  * Duties included: Teaching undergraduate students at general chemistry lab
-  * Supervisor: Dr.Linda Allen
+* 2014/06-2014/12: Student Assistant
+  * Texas Tech University, USA
+  * Duties included: Ordering chemicals, delivering packages, stockroom inventory mainteneance.
+  * Advisor: Jerry Franco
 
-* 2019-2020: Research Assistant
-  * Louisiana State University
-  * Duties included: Using computational tools to modeling block co-poplymer electrolyte, colaborate with Dr.Arges group at deparment of Chemical Engineering, LSU
-  * Supervisor: Dr.Revati Kumar
+* 2015/09-2018/09: Teaching Assistant
+  * Florida State University
+  * Duties included: Teaching undergraduate students at general chemistry lab, biochemistry lab, and organic chemistry lab.
+  * Supervisor: Dr. Stephanie Dillon
+
+* 2018/09-2020/08: Research Assistant
+  * Florida State University
+  * Duties included: developing FRET-based nanosensors, developing biocompatible surface polymers, and *in-situ* LC-TEM observing AuNR growth.
+  * Supervisor: Dr. Hedi Mattoussi; Co-supervisor: Dr. Chiwoo Park
+  
+ * 2020/12-Present: Post-Doctoral Fellow
+  * UC San Diego, USA
+  * Duties included: Developing nanoparticle-based COVID-19 devices on "smart mask".
+  * Supervisor: Dr. Jesse Jokerst
   
 Skills
 ======
-* Programming Languages: Python , C++, C , Shell Script
-* Platform: Linux, Mac
-* Software: LAMMPS, Gaussian, NWChem, VMD, Matplotlib
+* Synthetic materials: Inorganic nanomaterials (AuNPs, AuNRs, AuNSs, IONPs, QDs, AgNPs), organic PEG ligands, and customized peptides.
+* Instruments: UV-vis absorption, Fluoremeter, FT-IR, 1H-NMR, DOSY, TEM, LC-TEM, HPLC, MALDI-MS, ESI-MS, nanodrop.
+* Software: Word, PowerPoint, 3D-max, Chemdraw, Image-J, Endnote, Sigmaplot, GMS, Camtasia, MestroNova.
 * Langusges: English - Fluent, Mandarin - Native speaker
 
 Publications
@@ -47,10 +60,12 @@ Talks
   
 
 # Honors and awards
-* Graduate Student Association Travel Award, Louisiana State University (2020)
-* 1st Prize, Graduate Poster Presentation Award on the 27th International Conference on Current Trends in Com- putational Chemistry Conference (2019)
-* Outstanding Undergraduate Graduation Thesis, Lanzhou University (2015)
-* 2nd Prize, Undergraduate Poster Presentation Award on National Undergraduate Training Programs (2015)
-* Accessit at Student’s Platform for Innovation and Entrepreneurship Training Program (2014)
-* 2nd Prize, Undergraduate Chemistry Experimental Skills Competition, Lanzhou University (2014)
-* Scholarship for Excellent Undergraduate Students, Lanzhou University (2012)
+* 2020   Philip Schlenoff Excellent Graduate Student Award
+* 2020   SPIE Ocean Insight Young Investigator Award (**First Prize**)
+* 2018   Florida State University Travel Award
+* 2015   Lanzhou University Undergraduate Graduation Star
+* 2013   The China Scholarship Council (**CSC**) Scholarship
+* 2013   The Cuiying Honors Exchange Scholarship
+* 2013, 2014, 2015   Lanzhou University Excellent Undergraduate Fellowship
+* 2012   China’s Top Notch Undergraduate Training Program
+* 2012   National Undergraduate Training Programs for Innovation Fund
