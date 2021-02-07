@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : ""
-name                     : &name "Ke Li"
-description              : &description "Research Assistant at Dr.Revati Kumar's Lab, Louisiana State University"
-url                      : https://like201707.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhicheng Jin"
+description              : &description "Post-Doctoral Fellow at Dr.Jesse Jokerst's Lab, UC San Diego"
+url                      : https://jinzc74838.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "like201707/like201707.github.io"
+repository               : "jinzc74838/jinzc74838.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,10 +56,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : 
-facebook:
-  username               :
+twitter: "https://twitter.com/mattoussigroup"
+  username               : Hedi Mattoussi
+facebook: "https://www.facebook.com/profile.php?id=100007491881666"
+  username               : Zhicheng Jin
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ke Li"
-  avatar           : "personal.jpg"
-  bio              : "Research Assistant at Dr.Revati Kumar's Lab, Louisiana State University, expert in Computational Chemistry"
+  name             : "Zhicheng Jin"
+  avatar           : "Zhicheng-bio.png"
+  bio              : "Post-Doctoral Fellow at Dr.Jesse Jokerst's Lab, UC San Diego"
   location         : 
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=uB84ThoAAAAJ&hl=en"
-  email            : "kli19@lsu.edu"
-  researchgate     : "https://www.researchgate.net/profile/Ke_Li142"
+  googlescholar    : "https://scholar.google.com/citations?user=PC6gejgAAAAJ&hl=en"
+  email            : "jinzc74838@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Zhicheng_Jin"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100007491881666"
   foursquare       :
-  github           : "like201707"
+  github           : "jinzc74838"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "ke-li-7b4895130"
-  orcid            : "https://orcid.org/0000-0002-3140-3983"
+  linkedin         : "https://www.linkedin.com/in/zhicheng-b7268196/"
+  orcid            : "https://orcid.org/0000-0001-6072-7533"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/mattoussigroup"
   vine             :
   weibo            :
   xing             :
