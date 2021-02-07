@@ -21,7 +21,7 @@ Work experience
 ======
 * 2014/06-2014/12: Student Assistant
   * Texas Tech University, USA
-  * Duties included: Ordering chemicals, delivering packages, stockroom inventory mainteneance.
+  * Duties included: Ordering chemicals, delivering packages, stockroom inventory maintenance.
   * Advisor: Jerry Franco
 
 * 2015/09-2018/09: Teaching Assistant
@@ -35,9 +35,9 @@ Work experience
   * Supervisor: Dr. Hedi Mattoussi; Co-supervisor: Dr. Chiwoo Park
   
  * 2020/12-Present: Post-Doctoral Fellow
-  * UC San Diego, USA
-  * Duties included: Developing nanoparticle-based COVID-19 devices on "smart mask".
-  * Supervisor: Dr. Jesse Jokerst
+   * UC San Diego, USA
+   * Duties included: Developing nanoparticle-based COVID-19 devices on "smart mask".
+   * Supervisor: Dr. Jesse Jokerst
   
 Skills
 ======
