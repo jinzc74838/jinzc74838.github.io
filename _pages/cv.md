@@ -60,7 +60,7 @@ Talks
   
 
 # Honors and awards
-* 2020               &nbsp; Philip Schlenoff Excellent Graduate Student Award
+* 2020               &nbsp;&nbsp;&nbsp; Philip Schlenoff Excellent Graduate Student Award
 * 2020               SPIE Ocean Insight Young Investigator Award (**First Prize**)
 * 2018               Florida State University Travel Award
 * 2015               Lanzhou University Undergraduate Graduation Star
