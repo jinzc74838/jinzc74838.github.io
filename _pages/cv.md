@@ -14,7 +14,7 @@ Education
 * ***B.S.*** in Chemistry (honors college), Lanzhou University (Gansu, China), 2011/09-2015/06
 * Summer School, St. John's College, University of Manitoba (Manitoba, Canada), 2012/07-2012/08 
 * Exchange Student, Biochemistry, Texas Tech University (Texas, USA), 2013/12-2014/12
-* ***MS.c.*** in Physical Chemistry, Florida State University (Tallahassee, USA), 2015/09-2019/08
+* ***MS.C.*** in Physical Chemistry, Florida State University (Tallahassee, USA), 2015/09-2019/08
 * ***Ph.D.*** in Materials Chemistry, Florida State University (Tallahassee, USA), 2015/09-2019/08
 
 Work experience
