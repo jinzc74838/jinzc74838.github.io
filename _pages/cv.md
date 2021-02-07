@@ -61,11 +61,11 @@ Talks
 
 # Honors and awards
 * 2020               &nbsp;&nbsp;&nbsp; Philip Schlenoff Excellent Graduate Student Award
-* 2020               SPIE Ocean Insight Young Investigator Award (**First Prize**)
-* 2018               Florida State University Travel Award
-* 2015               Lanzhou University Undergraduate Graduation Star
-* 2013               The China Scholarship Council (**CSC**) Scholarship
-* 2013               The Cuiying Honors Exchange Scholarship
-* 2013, 2014, 2015   Lanzhou University Excellent Undergraduate Fellowship
-* 2012               China’s Top Notch Undergraduate Training Program
-* 2012               National Undergraduate Training Programs for Innovation Fund
+* 2020               &nbsp;&nbsp;&nbsp; SPIE Ocean Insight Young Investigator Award (**First Prize**)
+* 2018               &nbsp;&nbsp;&nbsp; Florida State University Travel Award
+* 2015               &nbsp;&nbsp;&nbsp; Lanzhou University Undergraduate Graduation Star
+* 2013               &nbsp;&nbsp;&nbsp; The China Scholarship Council (**CSC**) Scholarship
+* 2013               &nbsp;&nbsp;&nbsp; The Cuiying Honors Exchange Scholarship
+* 2013, 2014, 2015   &nbsp;&nbsp;&nbsp; Lanzhou University Excellent Undergraduate Fellowship
+* 2012               &nbsp;&nbsp;&nbsp; China’s Top Notch Undergraduate Training Program
+* 2012               &nbsp;&nbsp;&nbsp; National Undergraduate Training Programs for Innovation Fund
